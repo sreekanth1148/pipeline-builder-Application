@@ -1,4 +1,4 @@
-# VectorShift Pipeline Builder
+#  Pipeline Builder Application
 
 A node-based visual pipeline editor built using **ReactFlow (Frontend)** and **FastAPI (Backend)**.
 
